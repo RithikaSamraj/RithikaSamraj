@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
 I'm Rithika Samraj, an AI & ML enthusiast passionate about building real-world solutions. I work on innovative tech projects.
